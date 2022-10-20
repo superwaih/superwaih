@@ -1,7 +1,7 @@
 Hi 👋 My name is Wale
 =====================
 
-Frontend Developer and web3 developer
+Frontend Developer and GIS developer
 -------------------------------------
 
 Shittu Adewale is a frontend developer with the react.js/next.js frameworks and solidity, NodeJs - Express.js for backend with special interests in creating impeccable designs on the web and learning about upcoming and being an early adopter of new technologies When I'm not slapping my keyboard till something magical happens I am busy writing about the things I know
