@@ -4,14 +4,14 @@ Hi 👋 My name is Wale
 Frontend Developer and web3 developer
 -------------------------------------
 
-Shittu Adewale is a web3 developer with react.js/next.js for frontend and solidity and hardhat for backend with special interests in creating impeccable designs on the web and learning about upcoming and being an early adopter of new technologies When I'm not slapping my keyboard till something magical happens I am busy writing about the things I know
+Shittu Adewale is a frontend developer with the react.js/next.js frameworks and solidity, NodeJs - Express.js for backend with special interests in creating impeccable designs on the web and learning about upcoming and being an early adopter of new technologies When I'm not slapping my keyboard till something magical happens I am busy writing about the things I know
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [sheriffhardewale@gmail.com](mailto:sheriffhardewale@gmail.com)
-*   🚀  I'm currently working on [https://wale.vercel.app/](http://wale.vercel.app/)
+*   🚀  I'm currently working at spatialnode.net
 *   🧠  I'm learning NodeJs and Typescript
-*   🤝  I'm open to collaborating on Smart contract development
-*   ⚡  I'm batman !
+*   🤝  I'm open to collaborating on Smart contract development, Frontend, Backend and WebGIS development
+*   ⚡  I Like to think I am batman!
 
 ### Skills
 <p align="left">
