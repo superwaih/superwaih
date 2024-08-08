@@ -1,15 +1,13 @@
 Hi 👋 My name is Wale
 =====================
 
-Frontend Developer
+Software Developer
 -------------------------------------
 
 Shittu Adewale is a frontend developer with the react.js/next.js frameworks and solidity, NodeJs - Express.js for backend with special interests in creating impeccable designs on the web and learning about upcoming and being an early adopter of new technologies When I'm not slapping my keyboard till something magical happens I am busy writing about the things I know
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [sheriffhardewale@gmail.com](mailto:sheriffhardewale@gmail.com)
-*   🚀  I'm currently working at spatialnode.net
-*   🧠  I'm learning NodeJs and Typescript
 *   🤝  I'm open to collaborating on Smart contract development, Frontend, Backend and WebGIS development
 *   ⚡  I'm batman!
 
