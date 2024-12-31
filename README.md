@@ -16,14 +16,51 @@ When I'm not slapping my keyboard till something magical happens, you'll find me
 
 ### 💼 Technical Arsenal
 
+### 💻 Tech Stack
+
 ```typescript
-const wale = {
-    languages: ["JavaScript", "TypeScript", "Python", "Solidity"],
-    frontend: ["React.js", "Next.js", "Vue.js", "TailwindCSS"],
-    backend: ["Node.js", "Express.js"],
-    web3: ["Ethereum", "Polygon", "Web3.js", "Ethers", "IPFS"],
-    tools: ["Git", "GitHub", "Webpack", "Redux"],
-    interests: ["UI/UX", "WebGIS", "DeFi", "Community Building"]
+const techStack = {
+    frontend: {
+        languages: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
+        frameworks: ["React.js", "Next.js", "Vue.js"],
+        styling: ["TailwindCSS", "Material-UI", "CSS-in-JS"],
+        stateManagement: ["Redux", "Context API"],
+        buildTools: ["Webpack", "Vite"]
+    },
+    
+    backend: {
+        languages: ["Node.js", "Python"],
+        frameworks: ["Express.js"],
+        apis: ["REST", "GraphQL"]
+    },
+    
+    web3: {
+        languages: ["Solidity"],
+        networks: ["Ethereum", "Polygon"],
+        tools: [
+            "Web3.js",
+            "Ethers.js",
+            "MetaMask",
+            "Hardhat",
+            "IPFS",
+            "Chainlink",
+            "Alchemy"
+        ]
+    },
+
+    tools: {
+        versionControl: ["Git", "GitHub"],
+        deployment: ["Vercel", "Netlify", "Heroku"],
+        testing: ["Jest", "React Testing Library"]
+    },
+    
+    specialties: [
+        "Responsive Design",
+        "Performance Optimization",
+        "WebGIS Development",
+        "UI/UX Implementation",
+        "DeFi Integration"
+    ]
 }
 ```
 🎯 Current Focus
