@@ -94,7 +94,7 @@ Learning new technologies and sharing knowledge
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
 </p>
-### 🤝 Connect With Me 
+🤝 Connect With Me 
 
 <div align="left">
     <a href="https://discord.com/users/superwaih#0461" target="_blank">
