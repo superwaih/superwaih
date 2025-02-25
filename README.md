@@ -9,7 +9,7 @@ When I'm not slapping my keyboard till something magical happens, you'll find me
 ### 🚀 Quick Facts
 * 🌍 Based in Nigeria
 * 💻 Frontend Developer with a love for clean, efficient code
-* 🎓 B.Tech in Remote Sensing and GIS (CGPA: 4.47/5)
+* 🎓 B.Tech in Remote Sensing and GIS
 * ✉️ Reach me at: [sheriffhardewale@gmail.com](mailto:sheriffhardewale@gmail.com)
 * 🤝 Open to collaborating on Smart Contract Development, Frontend, Backend, and WebGIS projects
 * ⚡ Fun fact: I'm Batman! 🦇
