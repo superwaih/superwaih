@@ -2,7 +2,7 @@
 
 ## Software Developer | Frontend Engineer | Web3 Enthusiast
 
-I'm a results-driven frontend developer with 3+ years of experience crafting pixel-perfect, user-friendly web applications. I specialize in React.js/Next.js for frontend development, with additional expertise in Solidity and Node.js/Express.js for backend work. I'm passionate about creating impeccable web designs and staying at the forefront of emerging technologies.
+I'm a results-driven frontend developer with 4+ years of experience crafting pixel-perfect, user-friendly web applications. I specialize in React.js/Next.js for frontend development, with additional expertise in Solidity and Node.js/Express.js for backend work. I'm passionate about creating impeccable web designs and staying at the forefront of emerging technologies.
 
 When I'm not slapping my keyboard till something magical happens, you'll find me writing about tech or avoiding water (yes, really - I'm not a fan of drinking water! 🌊). I've never been to a museum, but I can navigate through complex codebases like it's an art gallery! 🎨
 
